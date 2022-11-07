@@ -17,13 +17,23 @@ Uma aplicação full stack, composta de uma API rest no back-end que utilizando 
 - Angular
 - Nodejs
 
+### Front end
+- Angular
+- Nodejs
+- Npm
+
+
 ## Como executar o projeto
 
 ### Back end
-Pré-requisitos: Java 17
-Nodejs: LTS
-Npm
-Angular
+Pré-requisitos: 
+- Java: 17
+- Maven
+
+### Front end
+- Nodejs: LTS
+- Npm
+- Angular
 
 ```bash
 ## clonar repositório
