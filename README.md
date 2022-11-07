@@ -27,7 +27,7 @@ Angular
 
 ```bash
 ## clonar repositório
-git clone https://github.com/lucashbdutra/Rest-API-SpringBoot
+git clone https://github.com/lucashbdutra/Treinamento-Indra-Minsait
 
 ## entrar na pasta do projeto que você quer executar
 cd treinamento_202209/view/projeto-angular-treinamento/
